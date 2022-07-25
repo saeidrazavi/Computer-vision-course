@@ -1,4 +1,4 @@
-in this HW ,  we want to train cnn models with different architectures for scene recognition . below you can see these structures : 
+in this HW ,  we want to train cnn models with different architectures for scene recognition using pytorch framework. below you can see these structures : 
 
 • PART 1 : using first convolutional layer and two last fully connected layer of Alexnet
 architecture . note that we use max-pooling layer with kernel-size=4 and stride=4 in first layer .
